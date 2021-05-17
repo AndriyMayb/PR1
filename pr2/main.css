@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+#header {
+    width: 100%;
+    height: 200px;
+    border: 2px solid black;
+    background-color: blueviolet;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+
+}
+#mains {
+    width: 33.333%;
+    height: 600px;
+    border: 2px solid black;
+    background-color: red;
+}
+.post_0 {
+    width: 100%;
+
+}
+.post1 {
+    width: 100%;
+    height: 300px;
+    border: 2px solid black ;
+    background-color: aqua;
+}
+.post2 {
+    width: 100%;
+    height: 300px;
+    border: 2px solid black ;
+    background-color: yellow;
+}
+#footer {
+    width: 100%;
+    height: 200px;
+    border: 2px solid black;
+    background-color: cornflowerblue;
+
+}
